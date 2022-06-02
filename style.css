@@ -16,3 +16,15 @@ img{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+a{
+	color: mediumaquamarine
+}
+
+a:hover{
+	color:black
+}
+
+a:visited{
+	color:darkblue
+}
